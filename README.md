@@ -1,4 +1,7 @@
-A JavaScript website I built from scratch to use for showcasing all of my web projects.developed in CSS3,
+Information
+===============================
+
+A JavaScript website I built from scratch to use for showcasing all of my web projects. Developed in CSS3,
 HTML5, normalize.js, jQuery (javascript) and _LoDash v2.4.1(javascript)
 
 There is no backend included in the build thus far. It is simply a fully-responsive
