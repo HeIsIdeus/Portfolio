@@ -2,7 +2,7 @@ Information
 ===============================
 
 A JavaScript website I built from scratch to use for showcasing all of my web projects. Developed in CSS3,
-HTML5, normalize.js, jQuery (javascript) and _LoDash v2.4.1(javascript)
+HTML5, normalize.js
 
 There is no backend included in the build thus far. It is simply a fully-responsive
 "mobile first" front-end website using the lastest HTML5 / CSS3 web-based 
@@ -35,13 +35,6 @@ a "mobile-first" design. Please visit http://en.wikipedia.org/wiki/Responsive_we
 for a detailed explaination. This is a technique that makes my website content 
 seamless across all browsers (mobile, iPad-like, laptop, desktop, etc.). 
 
-jQuery (http://www.jquery.com/) → A widely adopted Javascript library
-for building rich, interactive experiences with HTML5.
-It makes things like HTML document traversal and manipulation, event
-handling, animation, and Ajax much simpler with an easy-to-use API that
-works across a multitude of browsers. With a combination of versatility
-and extensibility, jQuery has changed the way that millions of people
-write JavaScript.
 
 Images used in all my portfolio work
 =======================================
