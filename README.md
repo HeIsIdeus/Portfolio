@@ -2,7 +2,7 @@ Information
 ===============================
 
 A JavaScript website I built from scratch for showcasing all of my Ruby and JavaScript projects. Developed in CSS3,
-HTML5, normalize.js, responsive.css.
+HTML5, normalize.css, responsive.css.
 
 There is no backend included in the build thus far. It is simply a fully-responsive
 "mobile first" front-end website using the lastest HTML5 / CSS3 web-based 
